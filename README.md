@@ -1,4 +1,4 @@
-# QrCodeScanner
+# QrCodeScanner with live preview (camera API, ML kit)
 
 Simple QR and barcode scanner with ```ActivityResultContract``` implementation using ML kit and camera API with live preview. 
 
