@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QrCodeScanner</string>
+    <string name="barcode_value">Value: %1$s</string>
+    <string name="qr_scanner_button_title">QR scanner</string>
+</resources>
